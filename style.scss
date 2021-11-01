@@ -1,0 +1,11 @@
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+.banner-image{
+    background-image: url("/img/playa.jpg");
+    background-image: cover;
+}
+.banner-image2{
+    background-image: url("/img/playa2.jpg");
+    background-image: cover;
+}
+
