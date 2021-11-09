@@ -31,10 +31,10 @@
                         <a href="#Contactenos" class="nav-link text-white">Contactanos</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link text-white">Inicio de Sesión</a>
+                        <a href="/view/login.php" class="nav-link text-white">Inicio de Sesión</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#" class="nav-link text-white">Registro</a>
+                        <a href="/view/Registro.php" class="nav-link text-white">Registro</a>
                     </li>
                 </ul>
             </div>
